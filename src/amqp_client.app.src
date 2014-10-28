@@ -1,6 +1,6 @@
 {application, amqp_client,
- [{description, "RabbitMQ AMQP Client"},
-  {vsn, "3.3.0"},
+ [{description, "RabbitMQ Erlang Client Library"},
+  {vsn, "3.4.0"},
   {modules, []},
   {registered, [amqp_sup]},
   {env, [{prefer_ipv6, false}]},
